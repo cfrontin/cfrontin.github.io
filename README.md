@@ -1,4 +1,4 @@
 
 # Resources
 
-- [2023 NAWEA/WindTech slides: "Design space exploration for novel reduced-vortex turbine rotors using free vortex wake methods"](NAWEA.pdf)
+- none yet
