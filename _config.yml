@@ -1,5 +1,5 @@
-title: Cory Frontin
-description: A place to store public-facing resources.
+title: Cory Frontin, Ph.D.
+description: Research engineering for fluid dynamics, energy, and baseball.
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
