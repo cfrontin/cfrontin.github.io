@@ -4,8 +4,10 @@
 Research Engineer, Wind Systems Engineering \
 National Wind Technology Center \
 National Laboratory of the Rockies \
-&nbsp;&nbsp;&nbsp;&nbsp;(formerly National Renewable Energy Laboratory)
+&nbsp;&nbsp;&nbsp;&nbsp;(formerly National Renewable Energy Laboratory) \
 January 2023-Present
+
+
 
 ## Publications
 
@@ -24,7 +26,7 @@ Massachusetts Institute of Technology
 Master of Science, 2018 \
 ["Entropy behavior for underresolved discontinuous Galerkin discretizations of the Navier-Stokes equations"](http://hdl.handle.net/1721.1/119299) \
 Aeronautics and Astronautics \
-Massachusetts Institute of Technology \
+Massachusetts Institute of Technology
 
 Bachelor of Science, 2014 \
 Aerospace Engineering \
