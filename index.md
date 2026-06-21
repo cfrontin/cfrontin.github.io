@@ -9,11 +9,25 @@ January 2023-Present
 
 
 
-## Publications
+## Featured publications
 
 [Frontin, C. and Millstein, D., 2026, May. Financial-technical co-design for capital-intensive, resource-responsive energy systems. In _Journal of Physics: Conference Series_ (Vol. 3224, No. 2, p. 022050). IOP Publishing.](https://doi.org/10.1088/1742-6596/3224/2/022050)
 
-- ??? 
+- gap:
+  - wind energy systems generate energy that varies significantly on a minute-to-minute, hour-to-hour, month-to-month, and even year-to-year basis
+  - wind energy systems are financed on a monthly or quarterly basis
+  - wind energy systems are designed _almost always_ to maximize annually-averaged production or cost-of-energy metrics
+  - once set, initial design decisions determine how productive _and how variable_ the output of a wind energy system will be
+- methodology:
+  - create a model for hourly revenue as a function of wind turbine design
+    - using simple physics-based wind turbine model
+    - use hourly meteorology data for wind resource characterization
+    - price energy offtake assuming merchant operation with real-time market CAISO hub data
+  - reduce revenues to monthly cashflows and pair with assumed debt expenses
+    - for simplicity assume 100\% debt model
+  - visualize how variation in designs creates net profit and profit variability
+- reults:
+  - ???
 
 ## Education
 
