@@ -1,7 +1,6 @@
 ---
-layout: minimal
+layout: default
 title: Publications
-permalink: /publications/
 ---
 
 <!-- ## Featured publications -->
