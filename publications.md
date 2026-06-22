@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: minimal
 title: Publications
-permalink: /about/
+permalink: /publications/
 ---
 
 <!-- ## Featured publications -->
