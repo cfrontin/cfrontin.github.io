@@ -57,5 +57,5 @@ title: Publications
       - based on historical tendencies plus league-level changes in minors
 - results:
   - predictions of player-by-player steal numbers for 2023
-  - in retrospect, everyone ran much more than we predicted
+  - in retrospect, everyone ran much more than we predicted...
 

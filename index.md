@@ -23,6 +23,23 @@ January 2023-Present
 - holes:
   - all of the models are super simple, to prove the point, but miss key physics and financial detail
 
+[Brody, S. and Frontin, C., 2023, February. Revising the Stolen Bases Model. In _Baseball Prospectus_.](https://www.baseballprospectus.com/news/article/80420/pecota-2023-revising-the-stolen-bases-model/)
+
+- gap:
+  - Major League Baseball took three rules changes from minor league baseball and implemented them in the majors: 1) limiting pick-off attempts, 2) adding a pitch clock, and 3) increasing the size of baseballs but there was/is no data for how much these would change going into the 2023 season except for data from minor league seasons
+- methodology:
+  - break the process of stealing (or getting caught trying) into pieces:
+  - model the rates each occur:
+    - SBO/PA (stolen base attempts per plate appearance)
+      - based on historical tendencies
+    - SBA/SBO (attempts per opportunities)
+      - based on historical tendencies plus league-level changes in minors
+    - SB/SBA (steals per attempt)
+      - based on historical tendencies plus league-level changes in minors
+- results:
+  - predictions of player-by-player steal numbers for 2023
+  - in retrospect, everyone ran much more than we predicted...
+
 [_Click here for more publications_](/publications.html)
 
 ## Education
