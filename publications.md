@@ -36,3 +36,26 @@ title: Publications
     - really, banks do financing based on their estimates of the mean (P50) and fifth-percentile (P95) AEP estimates due to uncertainty
     - this would require big changes to the financing analyses that are standard
 
+[Brody, S. and Frontin, C., 2023, February. Revising the Stolen Bases Model. In _Baseball Prospectus_.](https://www.baseballprospectus.com/news/article/80420/pecota-2023-revising-the-stolen-bases-model/)
+
+- gap:
+  - in 2023, Major League Baseball took three rules changes from minor league baseball and implemented them in the majors: 1) limiting pick-off attempts, 2) adding a pitch clock, and 3) increasing the size of baseballs
+  - each of these makes stealing bases easier and more appetizing for a team or player to attempt
+  - there was/is no data for how much these would change going into the 2023 season except for data from minor league seasons
+- methodology:
+  - break the process of stealing (or getting caught trying) into pieces:
+    1. stolen base opportunities (SBOs): when a player gets to 1B with nobody at 2B or to 2B with nobody at 3B
+      - result in either a stolen base attempt (SBA) or not
+    2. stolen base attempt (SBA): a player takes the plunge and tries to steal a base
+    3. successful stolen base (SB) or caught stealing (CS)
+  - model the rates each occur:
+    - SBO/PA (stolen base attempts per plate appearance)
+      - based on historical tendencies
+    - SBA/SBO (attempts per opportunities)
+      - based on historical tendencies plus league-level changes in minors
+    - SB/SBA (steals per attempt)
+      - based on historical tendencies plus league-level changes in minors
+- results:
+  - predictions of player-by-player steal numbers for 2023
+  - in retrospect, everyone ran much more than we predicted
+
