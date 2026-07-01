@@ -28,14 +28,14 @@ January 2023-Present
 - gap:
   - Major League Baseball took three rules changes from minor league baseball and implemented them in the majors: 1) limiting pick-off attempts, 2) adding a pitch clock, and 3) increasing the size of baseballs but there was/is no data for how much these would change going into the 2023 season except for data from minor league seasons
 - methodology:
-  - break the process of stealing (or getting caught trying) into pieces:
+  - break the process of stealing (or getting caught trying) into pieces
   - model the rates each occur:
     - SBO/PA (stolen base attempts per plate appearance)
       - based on historical tendencies
     - SBA/SBO (attempts per opportunities)
-      - based on historical tendencies plus league-level changes in minors
+      - based on historical tendencies plus league-level adjustments based on the minors
     - SB/SBA (steals per attempt)
-      - based on historical tendencies plus league-level changes in minors
+      - based on historical tendencies plus league-level adjustments based on the minors
 - results:
   - predictions of player-by-player steal numbers for 2023
   - in retrospect, everyone ran much more than we predicted...

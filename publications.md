@@ -36,6 +36,17 @@ title: Publications
     - really, banks do financing based on their estimates of the mean (P50) and fifth-percentile (P95) AEP estimates due to uncertainty
     - this would require big changes to the financing analyses that are standard
 
+[Frontin, C. and Darmofal, D.L., 2025. Small-sample Bayesian error estimation for ergodic, chaotic systems of ordinary differential equations. Journal of Computational Physics, 521, p.113559.](https://doi.org/10.1016/j.jcp.2024.113559)
+
+- gap
+  - TBD
+- methodology
+  - TBD
+- results
+  - TBD
+- holes
+  - TBD
+
 [Brody, S. and Frontin, C., 2023, February. Revising the Stolen Bases Model. In _Baseball Prospectus_.](https://www.baseballprospectus.com/news/article/80420/pecota-2023-revising-the-stolen-bases-model/)
 
 - gap:
@@ -52,9 +63,11 @@ title: Publications
     - SBO/PA (stolen base attempts per plate appearance)
       - based on historical tendencies
     - SBA/SBO (attempts per opportunities)
-      - based on historical tendencies plus league-level changes in minors
+      - based on historical tendencies 
+      - add league-level adjustments based on the minor league data
     - SB/SBA (steals per attempt)
-      - based on historical tendencies plus league-level changes in minors
+      - based on historical tendencies 
+      - add league-level adjustments based on the minor league data
 - results:
   - predictions of player-by-player steal numbers for 2023
   - in retrospect, everyone ran much more than we predicted...
